@@ -1,0 +1,133 @@
+.nm-cover {
+  position: relative;
+  padding-left: 48px;
+  margin-top: 80px;
+}
+
+.nm-title{
+position: absolute;
+top: 0%;
+transform: translateY(-50%);
+color: black;
+font-size: 24px;
+font-weight: 500;
+padding-bottom: 20px;
+}
+
+.nm-left {
+position: absolute;
+right: 120px;
+top: -1%;
+transform: translateY(-50%);
+background-color: rgb(229,229,229);
+width: 48px;
+height: 48px;
+border-radius: 50%;
+padding-bottom: 5px;
+padding-right: 5px;
+color: black;
+border: none;
+outline: none;
+cursor: pointer;
+font-size: 25px;
+}
+
+
+.nm-right {
+position: absolute;
+right:60px;
+top: -1%;
+transform: translateY(-50%);
+background-color: rgb(229,229,229);
+width: 48px;
+height: 48px;
+border-radius: 50%;
+padding-bottom: 5px;
+color: black;
+border: none;
+outline: none;
+cursor: pointer;
+font-size: 25px;
+}
+
+.nm-buttons-hide{
+background-color: rgb(245,245,245);
+color: grey;
+}
+
+.nm-scroll-images {
+  position: relative;
+  width: 100%;
+  padding: 35px 0px;
+  height: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: visible;
+  overflow-y: visible;
+  scroll-behavior: smooth;
+  overflow-x: scroll;
+  -webkit-overflow-scrolling: touch;
+  white-space: nowrap;
+}
+
+.nm-scroll-images::-webkit-scrollbar {
+  padding-top: 0;
+  margin-top: 0;
+  height: 8px; 
+}
+
+.nm-scroll-images::-webkit-scrollbar-thumb {
+  background: #888;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.nm-Image{
+width: 467px;
+height: 467px;
+}
+
+.nm-child{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-width: 467px;
+  height: 467px;
+  margin-right: 12px;
+  border: none;
+  overflow: hidden;
+  background-color: black;
+  color: white;
+}
+
+.nm-child-baby-text-one{
+  font-size: 16px;
+  margin: 0;
+  margin-bottom: 4px;
+  color: white;
+  font-weight: 500;
+}
+
+.nm-child-baby-text-two{
+  width: 330px;
+  font-size: 24px;
+  margin: 0;
+  margin-bottom: 8px;
+  color: white;
+  font-weight: 500;
+}
+
+.nm-child-baby-button{
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  height: 36px;
+  border-radius: 20px;
+  border: none;
+  background-color: white;
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: 10px;
+  font-weight: 500;
+}

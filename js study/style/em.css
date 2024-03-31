@@ -1,0 +1,63 @@
+.emGlobal{
+  padding-left: 48px;
+  padding-right: 48px;
+  
+}
+
+.em-text{
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+
+.em-div{
+  display: flex;
+  justify-content: space-between;
+  height: 570px;
+}
+
+.em-one{
+  display: flex;
+  position: relative;
+  width: 468px;
+  height: 570px;
+  margin-right: 12px;
+}
+
+.em-img{
+  width: 468px;
+  height: 570px;
+  
+}
+
+.em-button{
+position: absolute; 
+left: 50px; 
+bottom: 50px;
+padding-left: 16px;
+padding-right: 16px;
+padding-top: 6px;
+padding-bottom: 6px;
+height: 36px;
+border-radius: 20px;
+border: none;
+background-color: white;
+font-size: 16px;
+font-weight: 500;
+}
+
+.em-button-two{
+position: absolute; 
+left: 120px; 
+bottom: 50px;
+padding-left: 16px;
+padding-right: 16px;
+padding-top: 6px;
+padding-bottom: 6px;
+height: 36px;
+border-radius: 20px;
+border: none;
+background-color: white;
+font-size: 16px;
+font-weight: 500;
+}

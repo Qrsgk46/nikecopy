@@ -1,0 +1,111 @@
+.cover {
+  position: relative;
+  padding: 0px 30px;
+  margin-top: 60px;
+}
+
+.title{
+  position: absolute;
+  top: 0%;
+  transform: translateY(-50%);
+  color: black;
+  font-size: 24px;
+  font-weight: 500;
+  padding-bottom: 20px;
+}
+
+.left {
+  position: absolute;
+  right: 120px;
+  top: -1%;
+  transform: translateY(-50%);
+  background-color: rgb(229,229,229);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  color: black;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+
+.right {
+  position: absolute;
+  right:60px;
+  top: -1%;
+  transform: translateY(-50%);
+  background-color: rgb(229,229,229);
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  padding-bottom: 5px;
+  padding-left: 2px;
+  color: black;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  font-size: 25px;
+}
+
+.buttons-hide{
+background-color: rgb(245,245,245);
+color: grey;
+}
+
+.scroll-images {
+  position: relative;
+  width: 100%;
+  padding: 0px 0px;
+  height: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow-x: visible;
+  overflow-y: visible;
+  scroll-behavior: smooth;
+  overflow-x:scroll;
+  white-space:nowrap;
+  padding-top: 40px;
+}
+
+.scroll-images::-webkit-scrollbar {
+  padding-top: 0;
+  margin-top: 0;
+  height: 8px; 
+}
+
+.scroll-images::-webkit-scrollbar-thumb {
+  background: #888;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+.lntgGlobal{
+  width: 468px; 
+  margin-right: 10px;
+}
+
+.lntgImage{
+  width: 468px; 
+  height: 585px;
+}
+
+.hello {
+  min-width: 468px;
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  height: 585px;
+  padding: 0px 15px;
+  overflow: hidden;
+}
+
+.title-two{
+  margin-top: 24px; 
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 30px;
+}

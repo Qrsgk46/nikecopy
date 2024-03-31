@@ -1,0 +1,210 @@
+.jordan-logo:hover{
+  opacity: 0.4;
+}
+
+.nike-logo:hover{
+  opacity: 0.4;
+}
+
+.nav-text{
+  color: black;
+}
+
+.nav-text:hover{
+  color: black;
+  text-decoration: none;
+  opacity: 0.6;
+}
+
+.text-two{
+  color: black;
+}
+
+.text-two:hover{
+  color: black;
+  text-decoration: none;
+}
+
+.text-three-two1{
+  color: black;
+  text-decoration: underline;
+}
+
+.text-three-two1:hover{
+  color: black;
+}
+
+.shop-button:hover{
+  opacity: 0.6;
+}
+
+.lntgGlobal1{
+  color: black;
+}
+
+.lntgGlobal1:hover{
+  color: black;
+  text-decoration: none;
+}
+
+.left:hover{
+  opacity: 0.6;
+}
+
+.left:focus{
+  outline: none
+}
+
+.right:hover{
+  opacity: 0.6;
+}
+
+.right:focus{
+  border: none;
+  outline: none;
+}
+
+.buttons-hide:hover{
+  opacity: 1;
+}
+
+.nike-left:hover{
+  opacity: 0.6;
+}
+
+.nike-left:focus{
+  outline: none
+}
+
+.nike-right:hover{
+  opacity: 0.6;
+}
+
+.nike-right:focus{
+  border: none;
+  outline: none;
+}
+
+.nike-buttons-hide:hover{
+  opacity: 1;
+}
+
+.jdiButton:hover{
+  background-color: rgb(187, 187, 187);
+}
+
+.jdi-left:hover{
+  opacity: 0.6;
+}
+
+.jdi-left:focus{
+  outline: none
+}
+
+.jdi-right:hover{
+  opacity: 0.6;
+}
+
+.jdi-right:focus{
+  border: none;
+  outline: none;
+}
+
+.jdi-buttons-hide:hover{
+  opacity: 1;
+}
+
+.em-button:hover{
+  background-color: rgb(187, 187, 187
+  );
+}
+
+.em-button-two:hover{
+  background-color: rgb(187, 187, 187
+  );
+}
+
+.nm-child-baby-button:hover{
+  background-color: rgb(187, 187, 187);
+}
+
+.nm-child-text-one:hover{
+  text-decoration: none;
+}
+
+.nm-child-baby-text-two:hover{
+  text-decoration: none;
+}
+
+.nm-child5:hover{
+  text-decoration: none;
+}
+
+.nm-child5a:hover{
+  text-decoration: none;
+}
+
+.heart-logoa:hover{
+  text-decoration: none;
+  color: black;
+}
+
+.search-logo-div{
+  width: 39px;
+  height: 39px;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 5px;
+}
+
+.search-logo{
+  height: 60%;
+}
+
+.search-logo-div:hover{
+  background-color: rgba(221, 216, 216, 0.853);
+}
+
+button:focus{
+  outline: none;
+}
+
+.heart-logo-div{
+  height: 40px;
+  width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.heart-logo-div:hover{
+  background-color: rgba(221, 216, 216, 0.853);
+  height: 40px;
+  width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+.nm-left:hover{
+  opacity: 0.6;
+}
+
+.nm-left:focus{
+  outline: none
+}
+
+.nm-right:hover{
+  opacity: 0.6;
+}
+
+.nm-right:focus{
+  border: none;
+  outline: none;
+}
+
+.nm-buttons-hide:hover{
+  opacity: 1;
+}

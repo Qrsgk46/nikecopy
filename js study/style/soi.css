@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.count-button{
+  position: absolute;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  background-color: transparent;
+  overflow: hidden;
+  position: relative;
+  height: 450px;
+  min-width: 100%;
+  margin-top: 18px;
+}
+
+.aaatitle {
+  position: absolute;
+  transform: translateY(100%);
+  top: 0;
+  margin: 0;
+  padding: 0;
+  margin-left: 48px;
+  color: black;
+  font-size: 24px;
+  font-weight: 500;
+  margin-bottom: 24px;
+}
+
+.setupImage {
+  margin-top: 4px;
+  margin-right: 2px;
+  height: 20px;
+}
+
+.setupImage2 {
+  margin-top: 4px;
+  margin-left: 2px;
+  height: 20px;
+}
+
+.main, .font-weight-bold, .pb-2, .pt-1{
+  border: none;
+}
+
+.card {
+  width: 300px;
+  height: 300px;
+  border: none;
+  position: relative;
+}
+
+.owl-carousel .owl-stage-outer {
+  margin-top: 60px;
+  padding: 40px 10px;
+  height: 380px;
+}
+
+.soi-image{
+  width: 300px;
+  height: 300px;
+}
+
+.owl-theme .owl-nav [class*='owl-'] {
+  border-radius: 50% !important;
+  background: white !important;
+  width: 40px;
+  height: 40px;
+  border: 1px solid white;
+}
+
+.owl-prev {
+  position: absolute;
+  top: 49%;
+  left: 6%;
+  transform: translateY(-50%);
+}
+
+.owl-next {
+  position: absolute;
+  top: 49%;
+  right: 5%;
+  transform: translateY(-50%);
+}
+
+@media(max-width: 575.5px) {
+  .container {
+    margin: 0px;
+    padding: 20px;
+  }
+}
